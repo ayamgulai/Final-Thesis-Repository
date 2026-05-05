@@ -2,4 +2,8 @@
 .venv/
 
 research/.ipynb_checkpoints/
-research/data
+research/data/
+
+utils/json_kb/
+
+interface-kb/node_modules/
