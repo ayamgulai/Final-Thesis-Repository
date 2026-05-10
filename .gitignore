@@ -4,6 +4,9 @@
 research/.ipynb_checkpoints/
 research/data/
 
-utils/json_kb/
+research/utils/json_kb/
 
 interface-kb/node_modules/
+
+backend_service/venv/
+backend_service/src/__pycache__/
