@@ -1,0 +1,2127 @@
+{
+    "DITMAWA": {
+        "metadata": {
+            "full_name": "Direktorat Kemahasiswaan",
+            "description": "Unit yang menangani kesejahteraan mahasiswa, beasiswa, konseling, dan kegiatan organisasi kemahasiswaan."
+        },
+        "issue_category": {
+            "Platform Kemahasiswaan": {
+                "sla": {
+                    "response_time": 30,
+                    "resolution_time": 60
+                },
+                "canonicals": [
+                    {
+                        "canonical": "student connect",
+                        "variants": [
+                            "student connect",
+                            "studentconnect"
+                        ]
+                    }
+                ]
+            },
+            "SKEM, Pengembangan Bakat dan Prestasi": {
+                "sla": {
+                    "response_time": 30,
+                    "resolution_time": 60
+                },
+                "canonicals": [
+                    {
+                        "canonical": "skem",
+                        "variants": [
+                            "skem",
+                            "log book olahraga",
+                            "sk kepanitiaan"
+                        ]
+                    },
+                    {
+                        "canonical": "pkm",
+                        "variants": [
+                            "pkm"
+                        ]
+                    },
+                    {
+                        "canonical": "lomba",
+                        "variants": [
+                            "lomba",
+                            "kompetisi"
+                        ]
+                    }
+                ]
+            },
+            "Kesejahteraan Mahasiswa": {
+                "sla": {
+                    "response_time": 30,
+                    "resolution_time": 60
+                },
+                "canonicals": [
+                    {
+                        "canonical": "beasiswa",
+                        "variants": [
+                            "beasiswa"
+                        ]
+                    },
+                    {
+                        "canonical": "konseling",
+                        "variants": [
+                            "disabilitas",
+                            "konseling"
+                        ]
+                    },
+                    {
+                        "canonical": "jas almamater",
+                        "variants": [
+                            "jas almamater"
+                        ]
+                    }
+                ]
+            },
+            "Organisasi Mahasiswa": {
+                "sla": {
+                    "response_time": 30,
+                    "resolution_time": 60
+                },
+                "canonicals": [
+                    {
+                        "canonical": "sim ormawa",
+                        "variants": [
+                            "sim ormawa"
+                        ]
+                    }
+                ]
+            }
+        },
+        "default_sla": {
+            "response_time": 30,
+            "resolution_time": 60
+        }
+    },
+    "BMA": {
+        "metadata": {
+            "full_name": "Biro Manajemen Aset",
+            "description": "Unit yang bertanggung jawab atas manajemen aset fisik, asrama, dan fasilitas infrastruktur kampus."
+        },
+        "issue_category": {
+            "Layanan Rumah Dinas": {
+                "sla": {
+                    "response_time": 120,
+                    "resolution_time": 120
+                },
+                "canonicals": [
+                    {
+                        "canonical": "rumah dinas its",
+                        "variants": [
+                            "rumah dinas its"
+                        ]
+                    }
+                ]
+            },
+            "Layanan Pengelolaan Aset": {
+                "sla": {
+                    "response_time": 120,
+                    "resolution_time": 120
+                },
+                "canonicals": [
+                    {
+                        "canonical": "sim e aset",
+                        "variants": [
+                            "sim e aset",
+                            "e aset",
+                            "sim aset",
+                            "sim easet"
+                        ]
+                    }
+                ]
+            },
+            "Layanan Logistik": {
+                "sla": {
+                    "response_time": 60,
+                    "resolution_time": 60
+                },
+                "canonicals": [
+                    {
+                        "canonical": "Sim Logistik",
+                        "variants": [
+                            "myITS Logistic",
+                            "logistik"
+                        ]
+                    }
+                ]
+            }
+        },
+        "default_sla": {
+            "response_time": 120,
+            "resolution_time": 120
+        }
+    },
+    "BUK4L": {
+        "metadata": {
+            "full_name": "Biro Umum dan Keamanan, Keselamatan, Kesehatan Kerja dan Lingkungan",
+            "description": "Unit yang mengelola layanan terpadu, keamanan kampus, kearsipan, dan keselamatan kerja (K3L)."
+        },
+        "issue_category": {
+            "Pusat Layanan Terpadu (PLT)": {
+                "sla": {
+                    "response_time": 5,
+                    "resolution_time": 10
+                },
+                "canonicals": [
+                    {
+                        "canonical": "myits office",
+                        "variants": [
+                            "myits office",
+                            "e office",
+                            "e-office",
+                            "e perkantoran",
+                            "myitsoffice"
+                        ]
+                    },
+                    {
+                        "canonical": "myits document",
+                        "variants": [
+                            "myits document"
+                        ]
+                    },
+                    {
+                        "canonical": "myits sign",
+                        "variants": [
+                            "myits sign",
+                            "e-sign",
+                            "ttd elektronik",
+                            "bsre"
+                        ]
+                    },
+                    {
+                        "canonical": "ijazah",
+                        "variants": [
+                            "ijazah",
+                            "legalisir ijazah"
+                        ]
+                    }
+                ]
+            },
+            "K4L - STNK": {
+                "sla": {
+                    "response_time": 5,
+                    "resolution_time": 10
+                },
+                "canonicals": [
+                    {
+                        "canonical": "kehilangan stnk",
+                        "variants": [
+                            "kehilangan stnk"
+                        ]
+                    }
+                ]
+            },
+            "K4L - Parkir": {
+                "sla": {
+                    "response_time": 5,
+                    "resolution_time": 20
+                },
+                "canonicals": [
+                    {
+                        "canonical": "parkir",
+                        "variants": [
+                            "parkir",
+                            "parkir mobil",
+                            "parkir sembarangan"
+                        ]
+                    }
+                ]
+            },
+            "K4l - Unit Gate": {
+                "sla": {
+                    "response_time": 5,
+                    "resolution_time": 15
+                },
+                "canonicals": [
+                    {
+                        "canonical": "permintaan unit gate",
+                        "variants": [
+                            "permintaan unit gate (Sarpras-BUK4L)"
+                        ]
+                    }
+                ]
+            },
+            "Arsip Digital": {
+                "sla": {
+                    "response_time": 5,
+                    "resolution_time": 7
+                },
+                "canonicals": [
+                    {
+                        "canonical": "myits archive",
+                        "variants": [
+                            "myits archive"
+                        ]
+                    },
+                    {
+                        "canonical": "arsip",
+                        "variants": [
+                            "arsip",
+                            "dms",
+                            "records",
+                            "kearsipan"
+                        ]
+                    }
+                ]
+            }
+        },
+        "default_sla": {
+            "response_time": 5,
+            "resolution_time": 20
+        }
+    },
+    "DIRPAIP": {
+        "metadata": {
+            "full_name": "Direktorat Pengembangan Akademik dan Inovasi Pembelajaran",
+            "description": "Unit yang berfokus pada pengembangan metode pembelajaran inovatif dan platform akademik digital."
+        },
+        "issue_category": {
+            "Layanan Classroom": {
+                "sla": {
+                    "response_time": 30,
+                    "resolution_time": 1440
+                },
+                "canonicals": [
+                    {
+                        "canonical": "classroom",
+                        "variants": [
+                            "classroom",
+                            "my its classroom",
+                            "myclassroom",
+                            "myitsclassroom"
+                        ]
+                    }
+                ]
+            },
+            "Layanan Tugas Akhir dan Bimbingan": {
+                "sla": {
+                    "response_time": 1440,
+                    "resolution_time": 2880
+                },
+                "canonicals": [
+                    {
+                        "canonical": "my its thesis",
+                        "variants": [
+                            "my its thesis",
+                            "myits thesis",
+                            "its thesis",
+                            "thesis its",
+                            "my its tesis",
+                            "myits tesis",
+                            "myitsthesis",
+                            "mythesis",
+                            "my thesis",
+                            "dosen co pembimbing"
+                        ]
+                    },
+                    {
+                        "canonical": "ajuan sidang",
+                        "variants": [
+                            "ajuan sidang",
+                            "pengajuan sidang"
+                        ]
+                    },
+                    {
+                        "canonical": "bimbingan",
+                        "variants": [
+                            "bimbingan"
+                        ]
+                    }
+                ]
+            }
+        },
+        "default_sla": {
+            "response_time": 1440,
+            "resolution_time": 2880
+        }
+    },
+    "BK": {
+        "metadata": {
+            "full_name": "Biro Keuangan",
+            "description": "Unit yang mengelola administrasi keuangan, pembayaran SPP/UKT, gaji, dan perpajakan."
+        },
+        "issue_category": {
+            "Layanan Akuntansi dan Pelaporan Keuangan": {
+                "sla": {
+                    "response_time": 15,
+                    "resolution_time": 30
+                },
+                "canonicals": [
+                    {
+                        "canonical": "akuntansi",
+                        "variants": [
+                            "akuntansi"
+                        ]
+                    },
+                    {
+                        "canonical": "pelaporan keuangan",
+                        "variants": [
+                            "pelaporan keuangan"
+                        ]
+                    }
+                ]
+            },
+            "Layanan Gaji": {
+                "sla": {
+                    "response_time": 15,
+                    "resolution_time": 30
+                },
+                "canonicals": [
+                    {
+                        "canonical": "gaji",
+                        "variants": [
+                            "gaji",
+                            "slip gaji"
+                        ]
+                    },
+                    {
+                        "canonical": "myits payroll",
+                        "variants": [
+                            "myits payroll",
+                            "payrol",
+                            "myitspayrol",
+                            "sim myits payroll"
+                        ]
+                    }
+                ]
+            },
+            "Layanan Informasi Pembayaran SPP/UKT/SPI": {
+                "sla": {
+                    "response_time": 10080,
+                    "resolution_time": 20160
+                },
+                "canonicals": [
+                    {
+                        "canonical": "spp",
+                        "variants": [
+                            "spp"
+                        ]
+                    },
+                    {
+                        "canonical": "ukt",
+                        "variants": [
+                            "ukt"
+                        ]
+                    },
+                    {
+                        "canonical": "spi",
+                        "variants": [
+                            "spi"
+                        ]
+                    },
+                    {
+                        "canonical": "pembayaran ipi",
+                        "variants": [
+                            "pembayaran ipi",
+                            "pilihan pembayaran",
+                            "pemilihan ipi"
+                        ]
+                    }
+                ]
+            },
+            "Layanan Pencairan UMK Rutin/LS": {
+                "sla": {
+                    "response_time": 15,
+                    "resolution_time": 30
+                },
+                "canonicals": [
+                    {
+                        "canonical": "pencairan dana",
+                        "variants": [
+                            "pencairan dana"
+                        ]
+                    }
+                ]
+            },
+            "Layanan Perpajakan": {
+                "sla": {
+                    "response_time": 15,
+                    "resolution_time": 30
+                },
+                "canonicals": [
+                    {
+                        "canonical": "perpajakan",
+                        "variants": [
+                            "perpajakan",
+                            "absensi dan pajak",
+                            "deposit pajak",
+                            "pph 21",
+                            "bukti spt",
+                            "formulir spt",
+                            "upload data spt",
+                            "upload spt",
+                            "bupot",
+                            "bukti potong pajak",
+                            "spt tahunan",
+                            "bukti potong a2"
+                        ]
+                    }
+                ]
+            },
+            "Platform Simkeu": {
+                "sla": {
+                    "response_time": 60,
+                    "resolution_time": 180
+                },
+                "canonicals": [
+                    {
+                        "canonical": "simkeu",
+                        "variants": [
+                            "simkeu",
+                            "sim keuangan"
+                        ]
+                    }
+                ]
+            }
+        },
+        "default_sla": {
+            "response_time": 10080,
+            "resolution_time": 20160
+        }
+    },
+    "KPM": {
+        "metadata": {
+            "full_name": "Kantor Penjaminan Mutu",
+            "description": "Unit yang bertanggung jawab atas penjaminan mutu internal, akreditasi nasional/internasional, dan reputasi institusi."
+        },
+        "issue_category": {
+            "Layanan SPMI": {
+                "sla": {
+                    "response_time": 60,
+                    "resolution_time": 7200
+                },
+                "canonicals": [
+                    {
+                        "canonical": "penjaminan mutu",
+                        "variants": [
+                            "penjaminan mutu",
+                            "akreditasi"
+                        ]
+                    }
+                ]
+            },
+            "Layanan Reputasi Institusi": {
+                "sla": {
+                    "response_time": 60,
+                    "resolution_time": 7200
+                },
+                "canonicals": [
+                    {
+                        "canonical": "indikator kinerja",
+                        "variants": [
+                            "indikator kinerja",
+                            "angka kredit kumulatif penunjang",
+                            "ketepatan pengumpulan nilai mata kuliah"
+                        ]
+                    },
+                    {
+                        "canonical": "myits wcu",
+                        "variants": [
+                            "pdln",
+                            "sosialisasi wcu",
+                            "myits wcu",
+                            "perankingan qs",
+                            "perankingan the",
+                            "media pemberitaan qs"
+                        ]
+                    }
+                ]
+            },
+            "Layanan SAR": {
+                "sla": {
+                    "response_time": 30,
+                    "resolution_time": 1440
+                },
+                "canonicals": [
+                    {
+                        "canonical": "survey nilai sar",
+                        "variants": [
+                            "survey nilai sar",
+                            "survey sar",
+                            "sar rmk"
+                        ]
+                    }
+                ]
+            }
+        },
+        "default_sla": {
+            "response_time": 60,
+            "resolution_time": 7200
+        }
+    },
+    "UKP": {
+        "metadata": {
+            "full_name": "Unit Komunikasi Publik",
+            "description": "Unit yang mengelola komunikasi publik, hubungan media, media sosial, dan dokumentasi kegiatan ITS."
+        },
+        "issue_category": {
+            "Layanan Liputan Internal": {
+                "sla": {
+                    "response_time": 60,
+                    "resolution_time": 1440
+                },
+                "canonicals": [
+                    {
+                        "canonical": "liputan media",
+                        "variants": [
+                            "liputan media",
+                            "liputan internal",
+                            "berita",
+                            "liputan",
+                            "peliputan media",
+                            "pemberitaan media massa",
+                            "permohonan pemberitaan media massa",
+                            "media partners"
+                        ]
+                    },
+                    {
+                        "canonical": "luaran liputan",
+                        "variants": [
+                            "berita online",
+                            "sosmed",
+                            "berita youtube"
+                        ]
+                    }
+                ]
+            },
+            "Layanan Mengundang Media Eksternal": {
+                "sla": {
+                    "response_time": 60,
+                    "resolution_time": 86400
+                },
+                "canonicals": [
+                    {
+                        "canonical": "jumpa pers",
+                        "variants": [
+                            "jumpa pers",
+                            "press conference",
+                            "konferensi pers",
+                            "jumpapers",
+                            "press release"
+                        ]
+                    }
+                ]
+            },
+            "Layanan Live Youtube ITS": {
+                "sla": {
+                    "response_time": 60,
+                    "resolution_time": 86400
+                },
+                "canonicals": [
+                    {
+                        "canonical": "youtube",
+                        "variants": [
+                            "youtube",
+                            "yt",
+                            "ytube"
+                        ]
+                    },
+                    {
+                        "canonical": "its tv",
+                        "variants": [
+                            "its tv"
+                        ]
+                    }
+                ]
+            },
+            "Layanan publikasi acara/kegiatan di website ITS": {
+                "sla": {
+                    "response_time": 10,
+                    "resolution_time": 60
+                },
+                "canonicals": [
+                    {
+                        "canonical": "publikasi website its",
+                        "variants": [
+                            "website its",
+                            "publikasi website"
+                        ]
+                    }
+                ]
+            },
+            "Layanan publikasi pengumuman (MyITS Portal)": {
+                "sla": {
+                    "response_time": 10,
+                    "resolution_time": 60
+                },
+                "canonicals": [
+                    {
+                        "canonical": "publikasi pengumuman portal its",
+                        "variants": [
+                            "portal its",
+                            "publikasi myits portal"
+                        ]
+                    }
+                ]
+            },
+            "Layanan publikasi acara/kegiatan (videotron bundaran ITS)": {
+                "sla": {
+                    "response_time": 60,
+                    "resolution_time": 1440
+                },
+                "canonicals": [
+                    {
+                        "canonical": "videotron bundaran",
+                        "variants": [
+                            "videotron bundaran",
+                            "video tron bundaran",
+                            "bundaran its"
+                        ]
+                    }
+                ]
+            },
+            "Layanan publikasi acara/kegiatan (videotron rektorat ITS)": {
+                "sla": {
+                    "response_time": 60,
+                    "resolution_time": 1440
+                },
+                "canonicals": [
+                    {
+                        "canonical": "videotron rektorat",
+                        "variants": [
+                            "videotron rektorat",
+                            "video tron rektorat",
+                            "rektorat its"
+                        ]
+                    }
+                ]
+            },
+            "Layanan Publikasi Acara/Kegiatan Bukan Pemberitaan (ITS Social Media)": {
+                "sla": {
+                    "response_time": 30,
+                    "resolution_time": 60
+                },
+                "canonicals": [
+                    {
+                        "canonical": "social media",
+                        "variants": [
+                            "social media",
+                            "sosial media",
+                            "socmed",
+                            "sosmed",
+                            "media sosial",
+                            "medsos",
+                            "collaborator instagram"
+                        ]
+                    },
+                    {
+                        "canonical": "publikasi kegiatan",
+                        "variants": [
+                            "publikasi kegiatan",
+                            "publikasi acara",
+                            "publikasi sosial media",
+                            "publikasi berita its",
+                            "publikasi event",
+                            "publikasi poster",
+                            "request upload poster",
+                            "permohonan publikasi",
+                            "permohonan publish",
+                            "permintaan publikasi",
+                            "permohonan posting informasi",
+                            "permohonan posting ulang",
+                            "mengajukan postingan",
+                            "mempublikasikan",
+                            "permintaan promosi",
+                            "promosi",
+                            "publikasi pengumuman",
+                            "permohonan upload"
+                        ]
+                    },
+                    {
+                        "canonical": "menyebarluaskan informasi",
+                        "variants": [
+                            "menyebarluaskan informasi"
+                        ]
+                    }
+                ]
+            },
+            "Layanan Permohonan Keprotokolan ITS": {
+                "sla": {
+                    "response_time": 60,
+                    "resolution_time": 86400
+                },
+                "canonicals": [
+                    {
+                        "canonical": "protokol",
+                        "variants": [
+                            "protokol",
+                            "permohonan protokoler",
+                            "permohonan konsultasi acara"
+                        ]
+                    },
+                    {
+                        "canonical": "permohonan mc",
+                        "variants": [
+                            "duta kampus",
+                            "dutakampus",
+                            "duta ITS",
+                            "permohonan mc"
+                        ]
+                    }
+                ]
+            },
+            "Layanan Approval Desain Promosi": {
+                "sla": {
+                    "response_time": 10,
+                    "resolution_time": 60
+                },
+                "canonicals": [
+                    {
+                        "canonical": "approval desain",
+                        "variants": [
+                            "approval desain promosi",
+                            "persetujuan desain",
+                            "approval penggunaan lambang dan logo its"
+                        ]
+                    }
+                ]
+            },
+            "Layanan Upload Informasi ke WAG Pimpinan": {
+                "sla": {
+                    "response_time": 10,
+                    "resolution_time": 60
+                },
+                "canonicals": [
+                    {
+                        "canonical": "upload informasi ke wag pimpinan",
+                        "variants": [
+                            "upload informasi ke wag pimpinan. meneruskan file wag pimpinan",
+                            "wag pimpinan"
+                        ]
+                    }
+                ]
+            },
+            "Layanan Penambahan Akses Website": {
+                "sla": {
+                    "response_time": 30,
+                    "resolution_time": 60
+                },
+                "canonicals": [
+                    {
+                        "canonical": "akses website",
+                        "variants": [
+                            "penambahan akses website",
+                            "wordpress"
+                        ]
+                    }
+                ]
+            }
+        },
+        "default_sla": {
+            "response_time": 60,
+            "resolution_time": 86400
+        }
+    },
+    "DPSP": {
+        "metadata": {
+            "full_name": "Direktorat Pendidikan Sarjana dan Pascasarjana",
+            "description": "Unit yang menangani administrasi akademik, pendaftaran mahasiswa baru, dan layanan kelulusan sarjana/pascasarjana."
+        },
+        "issue_category": {
+            "Layanan Penerimaan Mahasiswa Baru": {
+                "sla": {
+                    "response_time": 1440,
+                    "resolution_time": 2880
+                },
+                "canonicals": [
+                    {
+                        "canonical": "pendaftaran",
+                        "variants": [
+                            "pendaftaran",
+                            "admisi",
+                            "my its admission",
+                            "pendaftaran iup",
+                            "pendaftaran mandiri",
+                            "seleksi masuk its",
+                            "seleksi masuk mandiri",
+                            "melamar s2",
+                            "data camaba",
+                            "data pendaftar",
+                            "pendaftaran ulang",
+                            "akses daftar ulang",
+                            "daftar ulang",
+                            "tkpa"
+                        ]
+                    },
+                    {
+                        "canonical": "sipmaba",
+                        "variants": [
+                            "sipmaba",
+                            "sistem pendataan mahasiswa baru",
+                            "sip maba"
+                        ]
+                    }
+                ]
+            },
+            "Platform SI Akademik": {
+                "sla": {
+                    "response_time": 2880,
+                    "resolution_time": 2880
+                },
+                "canonicals": [
+                    {
+                        "canonical": "siakad",
+                        "variants": [
+                            "siakad",
+                            "sistem informasi akademik",
+                            "myits academic",
+                            "data perkuliahan",
+                            "my its academic",
+                            "my its academics",
+                            "myits academics",
+                            "myits akademik",
+                            "myacademics",
+                            "myitsacademics",
+                            "myitsakademik",
+                            "akses akademik",
+                            "si akademik",
+                            "siakademik",
+                            "sim akademik",
+                            "sim akasdemik"
+                        ]
+                    },
+                    {
+                        "canonical": "formulir rencana studi",
+                        "variants": [
+                            "formulir rencana studi",
+                            "frs",
+                            "pencetakan krsm"
+                        ]
+                    }
+                ]
+            },
+            "Layanan Penilaian & Evaluasi Akademik": {
+                "sla": {
+                    "response_time": 2880,
+                    "resolution_time": 2880
+                },
+                "canonicals": [
+                    {
+                        "canonical": "transkrip nilai",
+                        "variants": [
+                            "transkrip nilai",
+                            "transkrip penilaian",
+                            "transkrip akademik",
+                            "transkrip mata kuliah",
+                            "transkrip mahasiswa",
+                            "transkrip ipk",
+                            "kartu hasil studi",
+                            "transkrip sementara"
+                        ]
+                    }
+                ]
+            },
+            "Layanan Administrasi Perkuliahan": {
+                "sla": {
+                    "response_time": 2880,
+                    "resolution_time": 10080
+                },
+                "canonicals": [
+                    {
+                        "canonical": "surat pengunduran diri",
+                        "variants": [
+                            "surat pengunduran diri",
+                            "form pengunduran diri mahasiswa"
+                        ]
+                    },
+                    {
+                        "canonical": "surat keterangan status kuliah",
+                        "variants": [
+                            "surat keterangan tunda kuliah",
+                            "permohonan aktif kuliah",
+                            "melanjutkan perkuliahan",
+                            "surat keterangan aktif",
+                            "surat keterangan mahasiswa aktif",
+                            "skma"
+                        ]
+                    },
+                    {
+                        "canonical": "surat keterangan administrasi",
+                        "variants": [
+                            "surat keterangan",
+                            "surat keterangan kelengkapan pendaftaran"
+                        ]
+                    },
+                    {
+                        "canonical": "ktm",
+                        "variants": [
+                            "ktm"
+                        ]
+                    }
+                ]
+            },
+            "Kunjungan SMA": {
+                "sla": {
+                    "response_time": 60,
+                    "resolution_time": 120
+                },
+                "canonicals": [
+                    {
+                        "canonical": "kunjungan sma",
+                        "variants": [
+                            "kunjungan sma",
+                            "kunjungan sekolah",
+                            "kunjungan siswa"
+                        ]
+                    }
+                ]
+            },
+            "Administrasi Kelulusan": {
+                "sla": {
+                    "response_time": 2880,
+                    "resolution_time": 2880
+                },
+                "canonicals": [
+                    {
+                        "canonical": "kunjungan sma",
+                        "variants": [
+                            "kunjungan sma",
+                            "kunjungan sekolah",
+                            "kunjungan siswa"
+                        ]
+                    },
+                    {
+                        "canonical": "permintaan nomor ijazah",
+                        "variants": [
+                            "permintaan nomor ijazah"
+                        ]
+                    },
+                    {
+                        "canonical": "generate skpi",
+                        "variants": [
+                            "generate skpi"
+                        ]
+                    }
+                ]
+            }
+        },
+        "default_sla": {
+            "response_time": 2880,
+            "resolution_time": 10080
+        }
+    },
+    "DRPM": {
+        "metadata": {
+            "full_name": "Direktorat Riset dan Pengabdian Masyarakat",
+            "description": "Unit yang mengelola kegiatan penelitian, pengabdian masyarakat, dan publikasi ilmiah."
+        },
+        "issue_category": {
+            "Penelitian": {
+                "sla": {
+                    "response_time": 120,
+                    "resolution_time": 120
+                },
+                "canonicals": [
+                    {
+                        "canonical": "simpel",
+                        "variants": [
+                            "simpel"
+                        ]
+                    },
+                    {
+                        "canonical": "kegiatan penelitian",
+                        "variants": [
+                            "kegiatan penelitian",
+                            "proposal penelitian"
+                        ]
+                    },
+                    {
+                        "canonical": "publikasi artikel ilmiah",
+                        "variants": [
+                            "publikasi artikel ilmiah"
+                        ]
+                    },
+                    {
+                        "canonical": "scholar",
+                        "variants": [
+                            "scholar"
+                        ]
+                    }
+                ]
+            },
+            "Pengabdian Masyarakat": {
+                "sla": {
+                    "response_time": 120,
+                    "resolution_time": 120
+                },
+                "canonicals": [
+                    {
+                        "canonical": "pengmas",
+                        "variants": [
+                            "pengmas"
+                        ]
+                    },
+                    {
+                        "canonical": "kkn",
+                        "variants": [
+                            "kkn"
+                        ]
+                    }
+                ]
+            },
+            "Software untuk Riset": {
+                "sla": {
+                    "response_time": 120,
+                    "resolution_time": 120
+                },
+                "canonicals": [
+                    {
+                        "canonical": "ithenticate",
+                        "variants": [
+                            "ithenticate"
+                        ]
+                    }
+                ]
+            },
+            "Jurnal ITS": {
+                "sla": {
+                    "response_time": 120,
+                    "resolution_time": 120
+                },
+                "canonicals": [
+                    {
+                        "canonical": "pomits",
+                        "variants": [
+                            "pomits"
+                        ]
+                    },
+                    {
+                        "canonical": "sewagati",
+                        "variants": [
+                            "sewagati"
+                        ]
+                    }
+                ]
+            },
+            "Pendaftaran PMDSU": {
+                "sla": {
+                    "response_time": 120,
+                    "resolution_time": 120
+                },
+                "canonicals": [
+                    {
+                        "canonical": "pmdsu",
+                        "variants": [
+                            "pmdsu",
+                            "pendaftaran pmdsu its"
+                        ]
+                    }
+                ]
+            },
+            "Platform DRPM": {
+                "sla": {
+                    "response_time": 120,
+                    "resolution_time": 120
+                },
+                "canonicals": [
+                    {
+                        "canonical": "simlitabmas",
+                        "variants": [
+                            "simlitabmas"
+                        ]
+                    },
+                    {
+                        "canonical": "my its research",
+                        "variants": [
+                            "my its research"
+                        ]
+                    },
+                    {
+                        "canonical": "my its insentif publikasi",
+                        "variants": [
+                            "my its insentif publikasi"
+                        ]
+                    }
+                ]
+            }
+        },
+        "default_sla": {
+            "response_time": 120,
+            "resolution_time": 120
+        }
+    },
+    "DSDMO": {
+        "metadata": {
+            "full_name": "Direktorat Sumber Manusia dan Organisasi",
+            "description": "Unit yang mengelola administrasi kepegawaian, pengembangan karir, kinerja, dan kesejahteraan dosen serta tenaga kependidikan."
+        },
+        "issue_category": {
+            "Kelas jabatan": {
+                "sla": {
+                    "response_time": 2880,
+                    "resolution_time": 20160
+                },
+                "canonicals": [
+                    {
+                        "canonical": "kelas jabatan",
+                        "variants": [
+                            "kelas jabatan",
+                            "nilai jabatan"
+                        ]
+                    }
+                ]
+            },
+            "Layanan Penyelesaian Masalah Presensi": {
+                "sla": {
+                    "response_time": 1440,
+                    "resolution_time": 10080
+                },
+                "canonicals": [
+                    {
+                        "canonical": "presensi dosen tendik",
+                        "variants": [
+                            "presensi dosen tendik",
+                            "absensi tendik",
+                            "validasi absen tendik",
+                            "absensi dosen",
+                            "presensi kerja dosen",
+                            "presensi tendik"
+                        ]
+                    },
+                    {
+                        "canonical": "my its worktime",
+                        "variants": [
+                            "my its worktime",
+                            "worktime"
+                        ]
+                    },
+                    {
+                        "canonical": "cuti",
+                        "variants": [
+                            "cuti",
+                            "ajuan cuti",
+                            "ajukan cuti",
+                            "kendala cuti",
+                            "validasi cuti",
+                            "cuti tahunan",
+                            "sim cuti"
+                        ]
+                    },
+                    {
+                        "canonical": "e-lembur",
+                        "variants": [
+                            "e-lembur",
+                            "e lembur",
+                            "elembur",
+                            "logbook lembur",
+                            "data rekap lembur",
+                            "uang makan"
+                        ]
+                    },
+                    {
+                        "canonical": "gagal input ijin",
+                        "variants": [
+                            "gagal input ijin"
+                        ]
+                    }
+                ]
+            },
+            "Pengajuan Tenaga Lepas": {
+                "sla": {
+                    "response_time": 1440,
+                    "resolution_time": 10080
+                },
+                "canonicals": [
+                    {
+                        "canonical": "tenaga lepas",
+                        "variants": [
+                            "tenaga lepas"
+                        ]
+                    },
+                    {
+                        "canonical": "kontrak THL",
+                        "variants": [
+                            "kontrak thl"
+                        ]
+                    },
+                    {
+                        "canonical": "kontrak kerja",
+                        "variants": [
+                            "kontrak kerja",
+                            "sim kontrak"
+                        ]
+                    }
+                ]
+            },
+            "Pengembangan Karir Pegawai": {
+                "sla": {
+                    "response_time": 1440,
+                    "resolution_time": 10080
+                },
+                "canonicals": [
+                    {
+                        "canonical": "pengembangan karir",
+                        "variants": [
+                            "pengembangan karir",
+                            "kenaikan jabatan"
+                        ]
+                    }
+                ]
+            },
+            "Perhitungan Capaian Kinerja": {
+                "sla": {
+                    "response_time": 120,
+                    "resolution_time": 2880
+                },
+                "canonicals": [
+                    {
+                        "canonical": "capaian kinerja",
+                        "variants": [
+                            "capaian kinerja",
+                            "kinerja luar biasa",
+                            "kinerja its",
+                            "nilai kinerja",
+                            "nilai total kinerja",
+                            "penilaian kinerja",
+                            "penilian kinerja",
+                            "perhitungan kinerja",
+                            "nilai perilaku kerja",
+                            "nilai perlaku kerja"
+                        ]
+                    },
+                    {
+                        "canonical": "angka kredit kumulatif",
+                        "variants": [
+                            "kum b kinerja",
+                            "kum b publikasi",
+                            "kum yg belum terpenuhi",
+                            "nilai kum penunjang",
+                            "reviewer karil",
+                            "sinkronisasi h-index",
+                            "angka kredit kumulatif penunjang"
+                        ]
+                    }
+                ]
+            },
+            "Permasalahan Publikasi": {
+                "sla": {
+                    "response_time": 1440,
+                    "resolution_time": 2880
+                },
+                "canonicals": [
+                    {
+                        "canonical": "publikasi belum ternilai",
+                        "variants": [
+                            "publikasi belum ternilai"
+                        ]
+                    }
+                ]
+            },
+            "Rincian Tugas": {
+                "sla": {
+                    "response_time": 1440,
+                    "resolution_time": 10080
+                },
+                "canonicals": [
+                    {
+                        "canonical": "rincian tugas",
+                        "variants": [
+                            "rincian tugas"
+                        ]
+                    }
+                ]
+            },
+            "Unit Layanan Serdos dan BKD (Sister)": {
+                "sla": {
+                    "response_time": 1440,
+                    "resolution_time": 10080
+                },
+                "canonicals": [
+                    {
+                        "canonical": "bkd",
+                        "variants": [
+                            "bkd",
+                            "beban kerja dosen",
+                            "beban kerja",
+                            "sk beban mengajar",
+                            "sk pengajaran",
+                            "sk untuk beban mengajar",
+                            "beban kerja dosen"
+                        ]
+                    }
+                ]
+            },
+            "Gaji, Tunjangan dan Benefit": {
+                "sla": {
+                    "response_time": 1440,
+                    "resolution_time": 10080
+                },
+                "canonicals": [
+                    {
+                        "canonical": "tunjangan kinerja",
+                        "variants": [
+                            "tunjangan kinerja",
+                            "ikits"
+                        ]
+                    },
+                    {
+                        "canonical": "tambah anggota keluarga",
+                        "variants": [
+                            "tambah anggota keluarga"
+                        ]
+                    },
+                    {
+                        "canonical": "bpjs ketenagakerjaan",
+                        "variants": [
+                            "bpjs ketenagakerjaan"
+                        ]
+                    }
+                ]
+            },
+            "Rekrutmen Dosen": {
+                "sla": {
+                    "response_time": 1440,
+                    "resolution_time": 10080
+                },
+                "canonicals": [
+                    {
+                        "canonical": "rekrutmen dan dosen lb",
+                        "variants": [
+                            "rekrutmen tendik",
+                            "dosen tidak tetap",
+                            "sim dosen luar biasa",
+                            "myits dosen lb",
+                            "pergantian pegawai"
+                        ]
+                    },
+                    {
+                        "canonical": "seleksi cpns",
+                        "variants": [
+                            "seleksi cpns",
+                            "seleksi calon pegawai negeri sipil"
+                        ]
+                    },
+                    {
+                        "canonical": "data dosen baru",
+                        "variants": [
+                            "data dosen baru"
+                        ]
+                    }
+                ]
+            },
+            "Platform DSDMO": {
+                "sla": {
+                    "response_time": 1440,
+                    "resolution_time": 10080
+                },
+                "canonicals": [
+                    {
+                        "canonical": "my its human capital",
+                        "variants": [
+                            "my its human capital",
+                            "myits human capital",
+                            "myits hc",
+                            "my its hc",
+                            "mihc",
+                            "myitshc",
+                            "myitshumancapital",
+                            "myits humancapital",
+                            "myhumancapital",
+                            "human capital",
+                            "myits humancapital",
+                            "my hc",
+                            "myitshuman capital"
+                        ]
+                    },
+                    {
+                        "canonical": "sim kepegawaian",
+                        "variants": [
+                            "si kepegawaian",
+                            "simpeg",
+                            "sistem informasi kepegawaian",
+                            "kepegawaian",
+                            "kepegawaian its",
+                            "sim kepegawaian"
+                        ]
+                    }
+                ]
+            },
+            "Layanan Entri SK": {
+                "sla": {
+                    "response_time": 60,
+                    "resolution_time": 1440
+                },
+                "canonicals": [
+                    {
+                        "canonical": "entri sk",
+                        "variants": [
+                            "entri sk",
+                            "entry sk"
+                        ]
+                    }
+                ]
+            },
+            "Layanan ID Card Pegawai": {
+                "sla": {
+                    "response_time": 1440,
+                    "resolution_time": 43200
+                },
+                "canonicals": [
+                    {
+                        "canonical": "id card pegawai",
+                        "variants": [
+                            "id card pegawai",
+                            "pembuatan id pegawai"
+                        ]
+                    }
+                ]
+            }
+        },
+        "default_sla": {
+            "response_time": 2880,
+            "resolution_time": 43200
+        }
+    },
+    "DPTSI": {
+        "metadata": {
+            "full_name": "Direktorat Pengembangan Teknologi dan Sistem Informasi",
+            "description": "Unit yang mengelola infrastruktur TI, sistem informasi, keamanan siber, dan data di lingkungan ITS."
+        },
+        "issue_category": {
+            "Lapor Insiden Cyber": {
+                "sla": {
+                    "response_time": 10080,
+                    "resolution_time": 43200
+                },
+                "canonicals": [
+                    {
+                        "canonical": "cyber",
+                        "variants": [
+                            "cyber",
+                            "kerentanan keamanan",
+                            "whitelist firewall",
+                            "ssl domain",
+                            "tak dikenal",
+                            "e-mail spam",
+                            "kerentanan",
+                            "tidak saya kenal",
+                            "security report",
+                            "pishing",
+                            "vulnerability report",
+                            "information disclosure"
+                        ]
+                    }
+                ]
+            },
+            "Permohonan Data": {
+                "sla": {
+                    "response_time": 1440,
+                    "resolution_time": 2880
+                },
+                "canonicals": [
+                    {
+                        "canonical": "data request",
+                        "variants": [
+                            "data request",
+                            "permintaan data nilai mahasiswa",
+                            "permintaan data histori",
+                            "pengambilan data",
+                            "rekap data penelitian",
+                            "permintaan dokumentasi",
+                            "delete data",
+                            "penghapusan data",
+                            "permohonan data",
+                            "pergantian data",
+                            "permintaan data jumlah",
+                            "permintaan data kinerja"
+                        ]
+                    }
+                ]
+            },
+            "Jaringan": {
+                "sla": {
+                    "response_time": 60,
+                    "resolution_time": 1440
+                },
+                "canonicals": [
+                    {
+                        "canonical": "internet",
+                        "variants": [
+                            "internet",
+                            "vpn",
+                            "vpn its",
+                            "akses vpn",
+                            "myits vpn",
+                            "openvpn"
+                        ]
+                    },
+                    {
+                        "canonical": "wifi",
+                        "variants": [
+                            "wifi",
+                            "its_wifi",
+                            "myitswifi",
+                            "myits_wifi",
+                            "eduroam",
+                            "myits wifi event",
+                            "myits wifi guest"
+                        ]
+                    },
+                    {
+                        "canonical": "jaringan",
+                        "variants": [
+                            "jaringan",
+                            "koneksi lan",
+                            "ip address",
+                            "blokir ip"
+                        ]
+                    },
+                    {
+                        "canonical": "colokan listrik",
+                        "variants": [
+                            "colokan listrik"
+                        ]
+                    },
+                    {
+                        "canonical": "aruba",
+                        "variants": [
+                            "aruba"
+                        ]
+                    },
+                    {
+                        "canonical": "pemosisian ap",
+                        "variants": [
+                            "pemosisian ap"
+                        ]
+                    },
+                    {
+                        "canonical": "server",
+                        "variants": [
+                            "server"
+                        ]
+                    },
+                    {
+                        "canonical": "CA Certificate",
+                        "variants": [
+                            "CA Certifikate",
+                            "Sertifikat CA",
+                            "Sertifikat Tidak Validasi"
+                        ]
+                    }
+                ]
+            },
+            "PDDIKTI": {
+                "sla": {
+                    "response_time": 30240,
+                    "resolution_time": 43200
+                },
+                "canonicals": [
+                    {
+                        "canonical": "pddikti",
+                        "variants": [
+                            "pddikti",
+                            "pangkalan data pendidikan tinggi",
+                            "pangkalan data dikti",
+                            "data dikti",
+                            "pd dikti",
+                            "pddkti",
+                            "data ddikti"
+                        ]
+                    },
+                    {
+                        "canonical": "data tidak sinkron",
+                        "variants": [
+                            "data tidak sinkron",
+                            "nama tidak sinkron",
+                            "data mahasiswa tidak sinkron",
+                            "data tidak sesuai",
+                            "nik tidak sesuai",
+                            "kesalahan nama ibu kandung",
+                            "mengubah nama ibu kandung",
+                            "perubahan nama ibu kandung",
+                            "tempat lahir belum sesuai",
+                            "tempat lahir tidak sesuai",
+                            "update data mahasiswa",
+                            "biodata di myits",
+                            "form update biodata",
+                            "mengubah tahun tanggal lahir",
+                            "nama ibu kandung salah",
+                            "penulisan nama panjang",
+                            "perubahan data mahasiswa"
+                        ]
+                    }
+                ]
+            },
+            "Lisensi Software": {
+                "sla": {
+                    "response_time": 1440,
+                    "resolution_time": 2880
+                },
+                "canonicals": [
+                    {
+                        "canonical": "license management",
+                        "variants": [
+                            "license management",
+                            "softwarehub",
+                            "software hub",
+                            "aktivasi matlab",
+                            "mathlab eror",
+                            "verifikasi matlab",
+                            "aktivasi windows",
+                            "ansys",
+                            "instalasi ansys",
+                            "software spss",
+                            "akun adobe",
+                            "autodesk student verification",
+                            "produk microsoft",
+                            "berlangganan google",
+                            "software berlisensi",
+                            "zoom berlisensi",
+                            "zoom premium",
+                            "penambahan akun zoom",
+                            "zoom my its",
+                            "kendala zoom",
+                            "akses zoom",
+                            "akun di matlab",
+                            "mendownload matlab",
+                            "permohonan izin langganan",
+                            "zoom expired"
+                        ]
+                    },
+                    {
+                        "canonical": "microsoft 365",
+                        "variants": [
+                            "microsoft 365",
+                            "office 365",
+                            "portal 365",
+                            "onedrive",
+                            "one drive",
+                            "storage",
+                            "teams",
+                            "backup data one drive",
+                            "micro365"
+                        ]
+                    },
+                    {
+                        "canonical": "lisensi",
+                        "variants": [
+                            "lisensi",
+                            "licence",
+                            "license"
+                        ]
+                    }
+                ]
+            },
+            "Akun dan Hak Akses": {
+                "sla": {
+                    "response_time": 1440,
+                    "resolution_time": 2880
+                },
+                "canonicals": [
+                    {
+                        "canonical": "password issue",
+                        "variants": [
+                            "password issue",
+                            "reset password",
+                            "reset kata sandi",
+                            "lupa password",
+                            "reset sandi",
+                            "lupa kata sandi",
+                            "password not recognised",
+                            "login error",
+                            "reset pasword",
+                            "password myits",
+                            "change password",
+                            "ganti password",
+                            "mereset password",
+                            "penggantian password",
+                            "new sign-in credentials",
+                            "gakbisa login",
+                            "eror pada log in",
+                            "kata sandinya selalu tidak sesuai",
+                            "lupa passwaord",
+                            "lupa pasword",
+                            "lupa sandi",
+                            "password email myits",
+                            "password email student",
+                            "password my its",
+                            "password salah",
+                            "permohonan mengubah password",
+                            "perubahan pasword",
+                            "recovery password email",
+                            "reset email password",
+                            "reset my its password",
+                            "riset password",
+                            "salah password",
+                            "salah pasword",
+                            "tidak bisa login",
+                            "tidak dapat mengubah password"
+                        ]
+                    },
+                    {
+                        "canonical": "akun its issue",
+                        "variants": [
+                            "akun its issue",
+                            "lupa nama email",
+                            "extend email",
+                            "login my its",
+                            "email my its",
+                            "akun microsoft",
+                            "account myits",
+                            "akun admin",
+                            "akun pendaftaran",
+                            "diaktivasi akun",
+                            "extend akun",
+                            "permohonan akun",
+                            "akun saya terkunci",
+                            "aktivasi email",
+                            "buat email",
+                            "pembuatan email mahasiswa",
+                            "email error",
+                            "email tidak bisa dibuka",
+                            "migrasi email",
+                            "shared mailbox",
+                            "akun mahasiswa saya tidak bisa digunakan",
+                            "akun locked",
+                            "akses email",
+                            "aku saya terblokir",
+                            "akun saya kekunci",
+                            "akun saya ter lock",
+                            "akun terkunci",
+                            "assign mailbox",
+                            "banyak email masuk",
+                            "create a new student email",
+                            "create new student email",
+                            "e-mail its tidak bisa dibuka",
+                            "e-mail lulusan baru",
+                            "email belum bisa",
+                            "email bersama",
+                            "email departemen",
+                            "email seminar",
+                            "kirim email",
+                            "menambahkan email",
+                            "pembuatan email",
+                            "penautan email",
+                            "pengajuan email",
+                            "pengaktifan user email",
+                            "pergantian email",
+                            "permintaan koneksi email",
+                            "permohonan domain email",
+                            "permohonan email koneksi",
+                            "perubahan email utama",
+                            "share mail box",
+                            "tidak bisa mengakses email",
+                            "webmail its"
+                        ]
+                    },
+                    {
+                        "canonical": "account and login issue",
+                        "variants": [
+                            "account and login issue",
+                            "tidak bisa log in",
+                            "kendala login",
+                            "login issue",
+                            "recover myits account",
+                            "cannot log in",
+                            "login pertama",
+                            "tidak bisa sign in",
+                            "recover its account",
+                            "connect to my account",
+                            "gagal akses my its",
+                            "tidak bisa buka my its",
+                            "belum bisa di akses",
+                            "login myits",
+                            "accessing myits",
+                            "login portal",
+                            "can t connect",
+                            "web its tidak bisa di buka",
+                            "akses integra",
+                            "incorrect password",
+                            "access account",
+                            "akses myits",
+                            "belum bisa mengakses",
+                            "data mata kuliah",
+                            "kesulitan login",
+                            "login ke my its",
+                            "login my myits",
+                            "masuk myits",
+                            "myits eror",
+                            "recover account",
+                            "recover my its account",
+                            "tidak bisa masuk di myits",
+                            "tidak bisa masuk my its",
+                            "tidak dapat log in",
+                            "tidak dapat login",
+                            "tidak dapat melakukan login",
+                            "tidak dapat mengakses"
+                        ]
+                    },
+                    {
+                        "canonical": "verifikasi nomor hp",
+                        "variants": [
+                            "verifikasi nomor hp",
+                            "kode verifikasi nomor handphone",
+                            "kode verifikasi myits",
+                            "verifikasi no hp",
+                            "mengisi nomor telepon",
+                            "mengubah no hp",
+                            "tidak mendapatkan kode verifikasi",
+                            "verifikasi myits",
+                            "verifikasi mahasiswa baru",
+                            "verifikasi nomor telepon",
+                            "login verifikasi",
+                            "verifikasi lewat nomer telpon",
+                            "verifikasi nomer telp"
+                        ]
+                    },
+                    {
+                        "canonical": "akses admin",
+                        "variants": [
+                            "akses admin",
+                            "hak akses",
+                            "akses kaprodi",
+                            "akses tata usaha",
+                            "penambahan akses",
+                            "pemberian akses",
+                            "role akses",
+                            "permintaan akses",
+                            "pengalihan akses",
+                            "penghapusan akses",
+                            "akses akademik"
+                        ]
+                    },
+                    {
+                        "canonical": "akun its",
+                        "variants": [
+                            "akun its",
+                            "akun myits",
+                            "akun my its",
+                            "akun portal",
+                            "akun email",
+                            "email its"
+                        ]
+                    },
+                    {
+                        "canonical": "single signon",
+                        "variants": [
+                            "single signon",
+                            "myits single-on",
+                            "single sign on",
+                            "single-sign on",
+                            "login its sso",
+                            "login sso",
+                            "sso my its",
+                            "akses its sso"
+                        ]
+                    },
+                    {
+                        "canonical": "mfa",
+                        "variants": [
+                            "mfa",
+                            "authentikator",
+                            "authenticator",
+                            "multi factor authentication",
+                            "aunthenticator",
+                            "autentikator",
+                            "autentikasi",
+                            "microsoft auth",
+                            "othentication",
+                            "otp",
+                            "autenticator",
+                            "autentifikasi",
+                            "autentifikator",
+                            "authenticathor",
+                            "authentication",
+                            "authentificator",
+                            "authentifikasi",
+                            "authentikasi",
+                            "multi-factor authentication"
+                        ]
+                    }
+                ]
+            },
+            "Layanan IT Support": {
+                "sla": {
+                    "response_time": 1440,
+                    "resolution_time": 2880
+                },
+                "canonicals": [
+                    {
+                        "canonical": "website",
+                        "variants": [
+                            "website",
+                            "page web",
+                            "akses web unit",
+                            "migrasi web",
+                            "web jurnal",
+                            "wordpress",
+                            "hosting",
+                            "akses vps",
+                            "kapasitas web",
+                            "perubahan nama unit",
+                            "perubahan keanggotaan lab"
+                        ]
+                    },
+                    {
+                        "canonical": "aplikasi",
+                        "variants": [
+                            "aplikasi"
+                        ]
+                    },
+                    {
+                        "canonical": "pengaktifan kembali sistem",
+                        "variants": [
+                            "pengaktifan kembali sistem"
+                        ]
+                    },
+                    {
+                        "canonical": "one data",
+                        "variants": [
+                            "one data"
+                        ]
+                    },
+                    {
+                        "canonical": "domain",
+                        "variants": [
+                            "domain"
+                        ]
+                    },
+                    {
+                        "canonical": "akun alumni",
+                        "variants": [
+                            "akun alumni",
+                            "akun alaumni",
+                            "alumni account",
+                            "alumni its",
+                            "pendaftaran alumni",
+                            "myits alumni",
+                            "email alumni",
+                            "myitsalumni"
+                        ]
+                    },
+                    {
+                        "canonical": "reduksi tiket kai access",
+                        "variants": [
+                            "reduksi tiket kai access",
+                            "kai acces"
+                        ]
+                    }
+                ]
+            },
+            "SIM MyITS": {
+                "sla": {
+                    "response_time": 1440,
+                    "resolution_time": 2880
+                },
+                "canonicals": [
+                    {
+                        "canonical": "shortener",
+                        "variants": [
+                            "shortener",
+                            "link short",
+                            "link tautan"
+                        ]
+                    },
+                    {
+                        "canonical": "webinar booking",
+                        "variants": [
+                            "webinar booking",
+                            "booking webinar"
+                        ]
+                    },
+                    {
+                        "canonical": "sim e tarif",
+                        "variants": [
+                            "sim e tarif"
+                        ]
+                    },
+                    {
+                        "canonical": "my its printing",
+                        "variants": [
+                            "my its printing"
+                        ]
+                    },
+                    {
+                        "canonical": "simaru",
+                        "variants": [
+                            "simaru"
+                        ]
+                    },
+                    {
+                        "canonical": "simimi",
+                        "variants": [
+                            "simimi"
+                        ]
+                    },
+                    {
+                        "canonical": "simad",
+                        "variants": [
+                            "simad"
+                        ]
+                    },
+                    {
+                        "canonical": "smits",
+                        "variants": [
+                            "smits"
+                        ]
+                    },
+                    {
+                        "canonical": "akses mailjet",
+                        "variants": [
+                            "akses mailjet"
+                        ]
+                    },
+                    {
+                        "canonical": "myits wcu",
+                        "variants": [
+                            "myits wcu"
+                        ]
+                    },
+                    {
+                        "canonical": "my its wali",
+                        "variants": [
+                            "my its wali",
+                            "myits wali",
+                            "myitswali",
+                            "di perwalian"
+                        ]
+                    },
+                    {
+                        "canonical": "my its vote",
+                        "variants": [
+                            "my its vote"
+                        ]
+                    },
+                    {
+                        "canonical": "portal its",
+                        "variants": [
+                            "portal its",
+                            "myits portal",
+                            "portal myits",
+                            "portal my its",
+                            "myitsportal",
+                            "its portal",
+                            "my its portal"
+                        ]
+                    }
+                ]
+            },
+            "Blasting Informasi": {
+                "sla": {
+                    "response_time": 1440,
+                    "resolution_time": 2880
+                },
+                "canonicals": [
+                    {
+                        "canonical": "blasting broadcast",
+                        "variants": [
+                            "blasting broadcast",
+                            "broadcast",
+                            "blasting informasi",
+                            "blasting whatsapp",
+                            "wa blast",
+                            "wa blasting"
+                        ]
+                    }
+                ]
+            }
+        },
+        "default_sla": {
+            "response_time": 30240,
+            "resolution_time": 43200
+        }
+    }
+}

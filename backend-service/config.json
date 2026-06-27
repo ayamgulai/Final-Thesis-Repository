@@ -1,0 +1,5 @@
+{
+    "indobert_confidence_threshold": 0.90,
+    "svm_confidence_threshold": 0.80,
+    "matching_score_threshold": 85.0
+}
